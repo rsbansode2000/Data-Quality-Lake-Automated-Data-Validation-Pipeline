@@ -175,7 +175,7 @@ GROUP BY status;
 
 # Future Improvements
 
-* Add **AWS Step Functions for orchestration**
+* Add  **AWS Step Functions for orchestration**
 * Convert logs to **Parquet format**
 * Add **data quality dashboards**
 * Implement **email alerts for failed checks**
