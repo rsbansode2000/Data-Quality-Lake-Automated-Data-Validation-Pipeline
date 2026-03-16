@@ -85,7 +85,8 @@ data-quality-lake/
 │   ├── data_quality_validator.py
 │   └── log_writer.py
 │
-├── glue/ │ └── etl_job_script.py
+├── glue/ │
+|   └── etl_job_script.py
 |
 ├── sample-data/
 │   └── sales_data.csv
