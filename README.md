@@ -85,9 +85,6 @@ data-quality-lake/
 │   ├── data_quality_validator.py
 │   └── log_writer.py
 │
-├── glue/
-│   └── etl_job_script.py
-│
 ├── sample-data/
 │   └── sales_data.csv
 │
@@ -103,7 +100,7 @@ data-quality-lake/
 
 ```
 {
-  "file": "raw/sales_2026.csv",
+  "file": "raw/sales_data.csv",
   "timestamp": "2026-03-12T10:40:12",
   "total_records": 12000,
   "null_count": 0,
