@@ -1,0 +1,4 @@
+order_id,customer_id,amount,country,order_date
+101,2001,500,IN,12-03-2026
+102,2002,300,US,12-03-2026
+103,2003,900,US,12-03-2026
